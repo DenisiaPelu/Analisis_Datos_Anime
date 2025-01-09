@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "analisis-anime"
+version = "0.1.0"
+description = "Análisis de datos"
+authors = ["DenisiaPelu <denisia_pelu@yahoo.es>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11.9"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
